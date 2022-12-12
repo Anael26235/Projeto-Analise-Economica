@@ -1,6 +1,5 @@
 package com.example.model;
 
-import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -12,7 +11,6 @@ import javax.persistence.Table;
 @Data
 @NoArgsConstructor
 @Entity
-@JsonInclude(JsonInclude.Include.NON_DEFAULT)
 @Table(name = "user")
 public class User {
 
