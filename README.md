@@ -1,7 +1,9 @@
 Pré-requisitos do projeto:
 
-Java 11 
+Java 11
+
 ELK stack
+
 Springboot 2.1.2
 
 
