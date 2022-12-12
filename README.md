@@ -2,7 +2,7 @@ Pré-requisitos do projeto:
 
 Java 11
 
-ELK stack
+ELK stack (elasticsearch, logstash, kibana)
 
 Springboot 2.1.2
 
